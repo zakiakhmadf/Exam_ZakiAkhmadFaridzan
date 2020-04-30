@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec38aaf4-66f1-42b7-8d15-d3580f2ef15b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bF5A2HvGe0JJaooVz2ij9VtG0N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features/android" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features/android/android" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CucumberRunner">
+    <configuration name="CucumberRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;demo.CucumberRunner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PokemonAPI.getPokemonByName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;demo.PokemonAPI.getPokemonByName&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CucumberRunner" />
+        <item itemvalue="Gradle.PokemonAPI.getPokemonByName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec38aaf4-66f1-42b7-8d15-d3580f2ef15b" name="Default Changelist" comment="" />
+      <created>1588214853222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588214853222</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588215620988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="744" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1588215620988" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588223171636">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1588223171636" />
+    <state width="779" height="448" key="GridCell.Tab.0.bottom" timestamp="1588235037110">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="448" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588234493311" />
+    <state width="779" height="448" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1588235037110" />
+    <state width="779" height="448" key="GridCell.Tab.0.center" timestamp="1588235037109">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="448" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588234493310" />
+    <state width="779" height="448" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1588235037109" />
+    <state width="779" height="448" key="GridCell.Tab.0.left" timestamp="1588235037108">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="448" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588234493309" />
+    <state width="779" height="448" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1588235037108" />
+    <state width="779" height="448" key="GridCell.Tab.0.right" timestamp="1588235037109">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="448" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588234493311" />
+    <state width="779" height="448" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1588235037109" />
+    <state x="817" y="378" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1588229499047">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="817" y="378" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1588229499047" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588233843865">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588233843865" />
+  </component>
+</project>
